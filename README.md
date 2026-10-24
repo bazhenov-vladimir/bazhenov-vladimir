@@ -41,8 +41,6 @@ Search performance data processing, SQL-based analysis, and automation of SEO wo
 **Website Development & Maintenance**  
 Technical improvements, CMS customization, integrations, and ongoing website support.
 
-*Selected technical examples and case studies will be added here.*
-
 ### 🤝 Let's Connect
 
 I'm interested in collaborating with businesses and teams that need both SEO expertise and hands-on technical implementation.
